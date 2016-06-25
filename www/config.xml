@@ -14,7 +14,7 @@
       <string>100</string>
     </gap:config-file>
 
-    <content src="http://gameinvite.us/app/index.html?phonegapPlugins=v101&amp;onlyGameId=5125637257822208-7" />
+    <content src="https://ycheckers.com/?phonegapPlugins=v101" />
 
     <name>yCheckers</name>
     <author email="yoav.zibin@gmail.com">
