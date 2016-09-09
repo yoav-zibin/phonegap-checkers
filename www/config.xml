@@ -14,8 +14,7 @@
       <string>300</string>
     </gap:config-file>
 
-    <content gap:platform="ios" src="https://ycheckers.com/?phonegapPlugins=ios.v101" />
-    <content gap:platform="android" src="https://ycheckers.com/?phonegapPlugins=android.v101" />
+    <content src="https://ycheckers.com/?phonegapPlugins=v101" />
     
     <name>yCheckers</name>
     <author email="yoav.zibin@gmail.com">
