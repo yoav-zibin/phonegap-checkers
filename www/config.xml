@@ -14,7 +14,7 @@
       <string>20300</string>
     </gap:config-file>
 
-    <content src="https://ycheckers.com/?phonegapPlugins=v104" />
+    <content src="https://ycheckers.com/?phonegapPlugins=v105" />
     
     <name>yCheckers</name>
     <author email="yoav.zibin@gmail.com">
